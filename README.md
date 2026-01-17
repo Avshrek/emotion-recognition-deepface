@@ -40,13 +40,3 @@ such as happy, sad, angry, neutral, and surprised in real time.
 
 
 ---
-
-## 🔹 STEP 6 — Push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Emotion recognition using DeepFace"
-git branch -M main
-git remote add origin https://github.com/Avshrek/emotion-recognition-deepface.git
-git push -u origin main
