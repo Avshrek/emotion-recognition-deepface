@@ -1,1 +1,6 @@
 pip freeze > requirements.txt
+
+deepface
+opencv-python
+tensorflow
+numpy
